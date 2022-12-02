@@ -1,6 +1,6 @@
-# hello_world
+# Wallet
 
-A new Flutter project created with https://flutlab.io
+Wallet app wallet we developed while learning Flutter
 
 ## Getting Started
 
